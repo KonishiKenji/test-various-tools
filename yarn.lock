@@ -5844,10 +5844,10 @@ batch@0.6.1:
   resolved "https://registry.npmjs.org/batch/-/batch-0.6.1.tgz"
   integrity sha512-x+VAiMRL6UPkx+kudNvxTl6hB2XNNCG2r+7wixVfIYwu/2HKRXimwQyaumLjMveWvT2Hkd/cAJw+QBMfJ/EKVw==
 
-bfj@9.1.0:
-  version "9.1.0"
-  resolved "https://registry.yarnpkg.com/bfj/-/bfj-9.1.0.tgz#93db524a1c0ec09ef6fb91d378e5b9e72a93169d"
-  integrity sha512-zuXR2Lh3dvTPEiGcYF5u1iJ6IcgNhrJvzzBBZ1weM0mid3F4jx03PZkEfKDfdhoGnlmff7Yjzo57P52Npahusg==
+bfj@9.1.1:
+  version "9.1.1"
+  resolved "https://registry.yarnpkg.com/bfj/-/bfj-9.1.1.tgz#913f7cbf87b14ac63975e89f21c64ad18e83c502"
+  integrity sha512-f3uU0MzqtuOvnB62ZUyzr2qqHVy5zFu3KV9H0MBVacdb7hsRxKSa18KtiwLZCF/5oRE3O4udraOxOC3F3A+kzA==
   dependencies:
     check-types "^11.2.3"
     hoopy "^0.1.4"
