@@ -77,7 +77,7 @@
     "tailwindcss": "3.4.14",
     "terser-webpack-plugin": "5.3.10",
     "typescript": "5.6.3",
-    "web-vitals": "4.2.3",
+    "web-vitals": "4.2.4",
     "webpack": "5.95.0",
     "webpack-dev-server": "5.1.0",
     "webpack-manifest-plugin": "5.0.0",
